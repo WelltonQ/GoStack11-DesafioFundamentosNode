@@ -93,4 +93,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
+<p align="center">
+<img alt="DesafioFundamentosNodeJS" src="https://user-images.githubusercontent.com/12499627/81343949-48d59700-908c-11ea-86a1-3e23673a116f.PNG" />
+</p>
+
 ✔ By Wellton Quirino, [Linkedin](https://www.linkedin.com/in/welltonquirino95/).
